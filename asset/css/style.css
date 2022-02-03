@@ -52,3 +52,14 @@ img{
     right:0;
     top:3%;
 }
+
+.img-b{
+    display:none;
+}
+
+.container:hover .img-b{
+    display:inline;
+    position: absolute;
+    z-index: 1;
+    left:0;
+}
