@@ -28,8 +28,27 @@ img{
     position: absolute;
     bottom: 3%;
     left:0;
-    background-color:red;
+    
     color: white;
     /* font-size: 0.7rem; */
     padding:5px;
+}
+
+.bg-red{
+    background-color:red;
+}
+.add{
+    background-color: green;
+    position: absolute;
+    bottom:3%;
+    left: 20%;
+}
+
+.heart{
+  
+    position: absolute;
+   padding:2% 3% 2% 3%;
+    background-color: white;
+    right:0;
+    top:3%;
 }
